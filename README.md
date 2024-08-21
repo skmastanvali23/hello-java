@@ -1,5 +1,5 @@
 # hello-java  |[![BINPIPE](https://img.shields.io/badge/YouTube-red.svg)](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A)
-A Simple "Hello World" in Java for Jenkins Demo
+A Simple "Hello World" in Java for Jenkins Demos
 
 -Prerequisites: Jenkins should have git plugin and installed with Java compiler.
 yum install java-devel
